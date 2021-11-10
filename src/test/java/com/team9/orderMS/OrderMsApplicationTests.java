@@ -1,4 +1,4 @@
-package com.OrderMS;
+package com.team9.orderMS;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
